@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://clgkresource.365yunxueyuan.com/chinalife.ipa</string>
+					<string>https://gkmls.cl-mlearning.com/ceshi/chinalife.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.zhangjiaqing.com/www/phoneDownload/ios57.jpg</string>
+					<string>https://github.com/xkfirst/chinalife/blob/master/ios57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.zhangjiaqing.com/www/phoneDownload/ios512.jpg</string>
+					<string>https://github.com/xkfirst/chinalife/blob/master/ios512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
